@@ -1,0 +1,54 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width: 700px;
+    margin: 0 auto;
+    padding: px;
+    box-shadow: 3px 3px 3px 3px rgb(116, 111, 113);
+}
+
+.colorbox{
+    background: rgb(4,175,240);
+    background: linear-gradient(0deg, rgba(4,175,240,1) 0%, rgba(45,119,253,1) 100%);;
+    width: inherit;
+    height: 80px;
+}
+
+.hs{
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
+
+.text{
+    position: relative;
+    margin: 0px 0px 0px 20px;
+    bottom: 50px;
+}
+
+p{
+    margin: 10px 0px 0px 0px;
+}
+
+.loctext{
+    position: relative;
+    display: inline;
+    bottom: 12px;
+}
+
+.settings{
+    position: relative;
+    top: 15px;
+    display: inline;
+}
+
+a{
+    position: relative;
+    top: 5px;
+}
+
